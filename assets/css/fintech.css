@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #CA498C;
+    color: #ffffff;
+}
+
+.content {
+    min-height: calc(100vh - 2rem - 56px);
+    /* 100vh - altura da barra no topo - altura da barra no rodapé */
+    padding-bottom: 56px; /* altura da barra no rodapé */
+}
+
+.footer {
+    background-color: #CA498C;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.custom-btn {
+    background-color: #CA498C;
+}
